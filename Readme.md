@@ -4,6 +4,30 @@ A backend-driven expense tracking application built using Node.js, Express, Mong
 
 This project focuses on real-world backend fundamentals such as authentication, authorization, REST API design, and clean project architecture.
 
+
+
+output:
+
+![alt text](<Screenshot 2025-12-23 215807.png>)
+
+Sign Up
+
+![alt text](<Screenshot 2025-12-23 215818.png>)
+
+Login 
+
+![alt text](<Screenshot 2025-12-23 215931.png>)
+
+Dashboard
+
+![alt text](image.png)
+
+mongo db screenshot
+
+![alt text](image-1.png)
+
+mongo db screenshot
+
 What This Project Demonstrates
 
 Secure user authentication using JWT
